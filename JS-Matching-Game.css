@@ -1,0 +1,4 @@
+#leftside   {position:absolute; width:500px; height:50%;
+              left:0; border: 1px solid black}
+#rightSide  {position:absolute; width:500px; height:50%;
+              left: 50%; border: 1px solid black}
